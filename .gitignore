@@ -1,0 +1,7 @@
+# Exclude
+
+*.csv
+*.xlsx
+*.xls
+.Rproj.user
+*.pdf
