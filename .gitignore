@@ -5,3 +5,5 @@
 *.xls
 .Rproj.user
 *.pdf
+.RData
+.Rhistory
